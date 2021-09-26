@@ -1,0 +1,16 @@
+{
+  "name": "nodepractise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "monil.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "create-react-app": "^4.0.3",
+    "nodemon": "^2.0.7",
+    "todolist": "0.0.1"
+  }
+}
